@@ -1,4 +1,3 @@
-Software engineer/manager currently learning computer graphics but interested in anything related to software development.  
 
 <!---
 baleboy/baleboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
